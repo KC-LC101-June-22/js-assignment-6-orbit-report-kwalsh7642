@@ -2,7 +2,9 @@
 	cursor: pointer;
 	color: #dd5;
 }
-
+.data-row:nth-child(even) {
+background-color: rgb(112, 251, 116);
+}
 .warning {
 	background-color: #da8a8a;
 }
